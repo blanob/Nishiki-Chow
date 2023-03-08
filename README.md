@@ -1,6 +1,5 @@
--  Hello, I’m @Nishiki-Chow
--  Based in SW1 London, England. From 610061, Sichuan.
--  How to reach me ... idk, with your arm?
+-  Hello, I’m @sine(pi)
+-  Based in SW1 London
 
 <!---
 Nishiki-Chow/Nishiki-Chow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

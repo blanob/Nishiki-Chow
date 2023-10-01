@@ -1,5 +1,5 @@
--  Hello, this is Blanob
--  Based in SW1, England
+-  hello, this is blanob
+-  based in SW1, England
 
 <!---
 blanob/blanob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

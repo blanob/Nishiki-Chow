@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- I'm Donald. You can find me [here](https://blanob.github.io/whatsmyemailagain).
+- I'm Donald. And my website is [here](https://blanob.github.io/).

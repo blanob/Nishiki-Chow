@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- I'm Donald. And I'll come back if I think of anything more to add.
+- I'm Donald. I'll come back if I ever think of something more to add.
